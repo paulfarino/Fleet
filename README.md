@@ -16,6 +16,7 @@ A group of Quartz Composer (Facebook Origami + IDEO Avocado) prototypes
 - Card Flip
 - UI Alert Modal
 - Compose Modal
+- Long Press Modal
 
 -------------
 Brought to you by [Paul Farino](https://github.com/paulfarino)
